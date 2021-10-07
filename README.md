@@ -12,6 +12,6 @@
 
 
 ## Task 2 - Create new components
-1. Create at least 3 components that, this can be a Navbar, a card and a footer. 
+1. Create at least 3 components, this could be a Navbar, a card and a footer. 
 2. Import those components in the `App.js`.
-3. Use them and have fun! 
+3. Use them and have fun! You can apply some styles, put them in a logical place within the App. etc. 
